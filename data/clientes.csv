@@ -1,0 +1,421 @@
+cliente_id,nome,email,cidade,segmento,data_cadastro
+1,Diego Cliente1,diego1@exemplo.com,Sao Paulo,Regular,2025-02-24
+2,Ursula Cliente2,ursula2@exemplo.com,Belem,VIP,2024-11-25
+3,Thiago Cliente3,thiago3@exemplo.com,Salvador,Regular,2024-12-24
+4,Rafael Cliente4,rafael4@exemplo.com,Belo Horizonte,Regular,2024-12-10
+5,Otavia Cliente5,otavia5@exemplo.com,Santarem,Premium,2026-05-12
+6,Diego Cliente6,diego6@exemplo.com,Boa Vista,VIP,2025-04-29
+7,Ana Cliente7,ana7@exemplo.com,Belo Horizonte,Regular,2025-12-30
+8,Mariana Cliente8,mariana8@exemplo.com,Boa Vista,Regular,2025-08-02
+9,Zelia Cliente9,zelia9@exemplo.com,Rio de Janeiro,VIP,2025-02-23
+10,Ursula Cliente10,ursula10@exemplo.com,Belem,Regular,2026-05-03
+11,Rafael Cliente11,rafael11@exemplo.com,Salvador,Regular,2025-04-21
+12,Elaine Cliente12,elaine12@exemplo.com,Fortaleza,Regular,2024-08-05
+13,Lucas Cliente13,lucas13@exemplo.com,Sao Paulo,Regular,2026-05-02
+14,Mariana Cliente14,mariana14@exemplo.com,Fortaleza,Regular,2026-04-05
+15,Nelson Cliente15,nelson15@exemplo.com,Salvador,VIP,2024-11-26
+16,Paulo Cliente16,paulo16@exemplo.com,Rio de Janeiro,VIP,2025-11-11
+17,Nelson Cliente17,nelson17@exemplo.com,Fortaleza,VIP,2025-03-30
+18,Queila Cliente18,queila18@exemplo.com,Salvador,VIP,2024-12-21
+19,Hugo Cliente19,hugo19@exemplo.com,Manaus,VIP,2024-08-11
+20,Queila Cliente20,queila20@exemplo.com,Belem,Regular,2025-05-20
+21,Paulo Cliente21,paulo21@exemplo.com,Manaus,Regular,2025-12-11
+22,Diego Cliente22,diego22@exemplo.com,Belo Horizonte,Regular,2024-08-01
+23,Rafael Cliente23,rafael23@exemplo.com,Boa Vista,Regular,2024-09-16
+24,Joao Cliente24,joao24@exemplo.com,Salvador,Regular,2025-03-07
+25,Wesley Cliente25,wesley25@exemplo.com,Belo Horizonte,VIP,2025-06-17
+26,Nelson Cliente26,nelson26@exemplo.com,Santarem,Regular,2025-10-31
+27,Ana Cliente27,ana27@exemplo.com,Macapa,Premium,2024-11-29
+28,Otavia Cliente28,otavia28@exemplo.com,Salvador,VIP,2025-07-30
+29,Gabriela Cliente29,gabriela29@exemplo.com,Boa Vista,Regular,2025-04-12
+30,Queila Cliente30,queila30@exemplo.com,Belo Horizonte,VIP,2025-01-08
+31,Vitor Cliente31,vitor31@exemplo.com,Macapa,VIP,2025-09-12
+32,Otavia Cliente32,otavia32@exemplo.com,Belem,Regular,2024-07-30
+33,Zelia Cliente33,zelia33@exemplo.com,Salvador,Regular,2026-01-27
+34,Nelson Cliente34,nelson34@exemplo.com,Belo Horizonte,VIP,2024-10-07
+35,Isabela Cliente35,isabela35@exemplo.com,Belo Horizonte,Regular,2026-01-15
+36,Ximena Cliente36,ximena36@exemplo.com,Rio de Janeiro,Premium,2026-07-19
+37,Carla Cliente37,carla37@exemplo.com,Macapa,Regular,2025-01-20
+38,Carla Cliente38,carla38@exemplo.com,Fortaleza,Regular,2025-11-22
+39,Diego Cliente39,diego39@exemplo.com,Fortaleza,Premium,2025-01-20
+40,Isabela Cliente40,isabela40@exemplo.com,Sao Paulo,Premium,2025-09-16
+41,Vitor Cliente41,vitor41@exemplo.com,Fortaleza,Regular,2025-03-17
+42,Wesley Cliente42,wesley42@exemplo.com,Manaus,Regular,2025-04-05
+43,Sonia Cliente43,sonia43@exemplo.com,Manaus,VIP,2024-08-23
+44,Queila Cliente44,queila44@exemplo.com,Boa Vista,Premium,2024-09-17
+45,Fabio Cliente45,fabio45@exemplo.com,Manaus,Regular,2024-12-10
+46,Joao Cliente46,joao46@exemplo.com,Salvador,Regular,2024-04-27
+47,Elaine Cliente47,elaine47@exemplo.com,Salvador,VIP,2025-07-13
+48,Ana Cliente48,ana48@exemplo.com,Belem,Regular,2026-05-19
+49,Bruno Cliente49,bruno49@exemplo.com,Sao Paulo,Regular,2024-06-05
+50,Ana Cliente50,ana50@exemplo.com,Macapa,Regular,2025-09-01
+51,Vitor Cliente51,vitor51@exemplo.com,Boa Vista,Regular,2026-03-31
+52,Paulo Cliente52,paulo52@exemplo.com,Belo Horizonte,Regular,2024-04-30
+53,Fabio Cliente53,fabio53@exemplo.com,Manaus,Regular,2026-01-03
+54,Nelson Cliente54,nelson54@exemplo.com,Fortaleza,Regular,2024-11-28
+55,Hugo Cliente55,hugo55@exemplo.com,Belem,Regular,2026-06-29
+56,Gabriela Cliente56,gabriela56@exemplo.com,Manaus,Premium,2025-01-22
+57,Bruno Cliente57,bruno57@exemplo.com,Belo Horizonte,VIP,2024-10-15
+58,Gabriela Cliente58,gabriela58@exemplo.com,Belo Horizonte,Regular,2026-07-13
+59,Elaine Cliente59,elaine59@exemplo.com,Salvador,Regular,2025-02-19
+60,Elaine Cliente60,elaine60@exemplo.com,Manaus,Regular,2026-01-24
+61,Mariana Cliente61,mariana61@exemplo.com,Boa Vista,Regular,2025-06-04
+62,Carla Cliente62,carla62@exemplo.com,Rio de Janeiro,Regular,2025-08-15
+63,Fabio Cliente63,fabio63@exemplo.com,Boa Vista,Regular,2024-05-26
+64,Nelson Cliente64,nelson64@exemplo.com,Boa Vista,Regular,2025-09-03
+65,Queila Cliente65,queila65@exemplo.com,Belo Horizonte,Regular,2025-02-09
+66,Zelia Cliente66,zelia66@exemplo.com,Salvador,Regular,2024-04-19
+67,Diego Cliente67,diego67@exemplo.com,Santarem,Regular,2026-04-29
+68,Otavia Cliente68,otavia68@exemplo.com,Sao Paulo,Regular,2024-05-22
+69,Vitor Cliente69,vitor69@exemplo.com,Manaus,VIP,2025-08-07
+70,Fabio Cliente70,fabio70@exemplo.com,Sao Paulo,Regular,2024-12-24
+71,Zelia Cliente71,zelia71@exemplo.com,Salvador,Regular,2024-11-05
+72,Wesley Cliente72,wesley72@exemplo.com,Boa Vista,Regular,2024-12-29
+73,Ximena Cliente73,ximena73@exemplo.com,Santarem,Regular,2025-01-03
+74,Isabela Cliente74,isabela74@exemplo.com,Salvador,Premium,2024-05-24
+75,Isabela Cliente75,isabela75@exemplo.com,Belem,VIP,2026-02-08
+76,Diego Cliente76,diego76@exemplo.com,Macapa,Regular,2024-07-24
+77,Zelia Cliente77,zelia77@exemplo.com,Manaus,Regular,2026-04-16
+78,Queila Cliente78,queila78@exemplo.com,Sao Paulo,Regular,2026-05-29
+79,Joao Cliente79,joao79@exemplo.com,Sao Paulo,Premium,2025-11-13
+80,Carla Cliente80,carla80@exemplo.com,Macapa,Regular,2024-05-29
+81,Isabela Cliente81,isabela81@exemplo.com,Rio de Janeiro,VIP,2026-06-05
+82,Diego Cliente82,diego82@exemplo.com,Santarem,Premium,2026-03-30
+83,Diego Cliente83,diego83@exemplo.com,Salvador,Regular,2025-08-09
+84,Karina Cliente84,karina84@exemplo.com,Belo Horizonte,Regular,2024-10-01
+85,Wesley Cliente85,wesley85@exemplo.com,Fortaleza,Premium,2025-06-15
+86,Karina Cliente86,karina86@exemplo.com,Fortaleza,Regular,2025-04-16
+87,Nelson Cliente87,nelson87@exemplo.com,Belem,Regular,2025-03-07
+88,Vitor Cliente88,vitor88@exemplo.com,Boa Vista,Regular,2024-04-18
+89,Lucas Cliente89,lucas89@exemplo.com,Macapa,Regular,2025-05-12
+90,Ana Cliente90,ana90@exemplo.com,Boa Vista,Regular,2025-10-10
+91,Ximena Cliente91,ximena91@exemplo.com,Belem,Regular,2025-06-02
+92,Karina Cliente92,karina92@exemplo.com,Fortaleza,VIP,2025-01-24
+93,Karina Cliente93,karina93@exemplo.com,Santarem,Regular,2024-07-25
+94,Diego Cliente94,diego94@exemplo.com,Manaus,Regular,2026-04-03
+95,Bruno Cliente95,bruno95@exemplo.com,Manaus,Regular,2024-11-29
+96,Ursula Cliente96,ursula96@exemplo.com,Boa Vista,Premium,2024-12-18
+97,Elaine Cliente97,elaine97@exemplo.com,Sao Paulo,Regular,2025-07-12
+98,Hugo Cliente98,hugo98@exemplo.com,Rio de Janeiro,Regular,2024-05-31
+99,Elaine Cliente99,elaine99@exemplo.com,Manaus,Regular,2024-09-24
+100,Wesley Cliente100,wesley100@exemplo.com,Salvador,Regular,2025-06-22
+101,Isabela Cliente101,isabela101@exemplo.com,Manaus,Regular,2026-07-17
+102,Isabela Cliente102,isabela102@exemplo.com,Salvador,Regular,2025-11-05
+103,Karina Cliente103,karina103@exemplo.com,Manaus,VIP,2024-12-03
+104,Carla Cliente104,carla104@exemplo.com,Manaus,Regular,2024-10-06
+105,Queila Cliente105,queila105@exemplo.com,Boa Vista,Regular,2025-02-16
+106,Yago Cliente106,yago106@exemplo.com,Sao Paulo,Premium,2026-07-22
+107,Ursula Cliente107,ursula107@exemplo.com,Santarem,Regular,2025-12-18
+108,Vitor Cliente108,vitor108@exemplo.com,Salvador,VIP,2024-06-30
+109,Mariana Cliente109,mariana109@exemplo.com,Sao Paulo,VIP,2025-12-07
+110,Rafael Cliente110,rafael110@exemplo.com,Boa Vista,Regular,2026-01-09
+111,Lucas Cliente111,lucas111@exemplo.com,Sao Paulo,Regular,2025-04-21
+112,Rafael Cliente112,rafael112@exemplo.com,Belo Horizonte,VIP,2024-09-12
+113,Sonia Cliente113,sonia113@exemplo.com,Boa Vista,Premium,2024-10-28
+114,Nelson Cliente114,nelson114@exemplo.com,Manaus,Regular,2026-07-28
+115,Lucas Cliente115,lucas115@exemplo.com,Salvador,Regular,2024-05-10
+116,Bruno Cliente116,bruno116@exemplo.com,Manaus,Premium,2025-07-17
+117,Rafael Cliente117,rafael117@exemplo.com,Boa Vista,Premium,2024-07-06
+118,Diego Cliente118,diego118@exemplo.com,Macapa,Regular,2024-08-20
+119,Sonia Cliente119,sonia119@exemplo.com,Boa Vista,Regular,2025-06-26
+120,Mariana Cliente120,mariana120@exemplo.com,Salvador,VIP,2025-02-20
+121,Zelia Cliente121,zelia121@exemplo.com,Manaus,VIP,2026-04-17
+122,Carla Cliente122,carla122@exemplo.com,Manaus,Regular,2025-08-26
+123,Rafael Cliente123,rafael123@exemplo.com,Boa Vista,Regular,2024-07-08
+124,Sonia Cliente124,sonia124@exemplo.com,Santarem,Premium,2025-10-07
+125,Joao Cliente125,joao125@exemplo.com,Salvador,Regular,2026-03-18
+126,Mariana Cliente126,mariana126@exemplo.com,Santarem,VIP,2024-10-27
+127,Ana Cliente127,ana127@exemplo.com,Fortaleza,Regular,2025-05-27
+128,Lucas Cliente128,lucas128@exemplo.com,Salvador,Premium,2025-02-20
+129,Ana Cliente129,ana129@exemplo.com,Manaus,Regular,2026-03-07
+130,Fabio Cliente130,fabio130@exemplo.com,Macapa,VIP,2025-02-21
+131,Vitor Cliente131,vitor131@exemplo.com,Macapa,VIP,2026-05-29
+132,Lucas Cliente132,lucas132@exemplo.com,Boa Vista,Regular,2026-02-26
+133,Thiago Cliente133,thiago133@exemplo.com,Fortaleza,Regular,2026-04-16
+134,Karina Cliente134,karina134@exemplo.com,Belo Horizonte,Premium,2024-07-19
+135,Carla Cliente135,carla135@exemplo.com,Rio de Janeiro,Regular,2025-09-28
+136,Ursula Cliente136,ursula136@exemplo.com,Belem,Regular,2025-03-10
+137,Diego Cliente137,diego137@exemplo.com,Salvador,Regular,2025-07-31
+138,Vitor Cliente138,vitor138@exemplo.com,Belo Horizonte,VIP,2025-08-14
+139,Carla Cliente139,carla139@exemplo.com,Belem,Regular,2026-05-05
+140,Zelia Cliente140,zelia140@exemplo.com,Belo Horizonte,Regular,2025-11-04
+141,Yago Cliente141,yago141@exemplo.com,Santarem,Premium,2025-05-17
+142,Queila Cliente142,queila142@exemplo.com,Salvador,Regular,2024-07-22
+143,Vitor Cliente143,vitor143@exemplo.com,Belo Horizonte,Regular,2026-02-03
+144,Gabriela Cliente144,gabriela144@exemplo.com,Belo Horizonte,Regular,2024-08-27
+145,Lucas Cliente145,lucas145@exemplo.com,Sao Paulo,Regular,2024-05-02
+146,Sonia Cliente146,sonia146@exemplo.com,Rio de Janeiro,Regular,2025-05-07
+147,Ximena Cliente147,ximena147@exemplo.com,Fortaleza,Regular,2026-03-25
+148,Nelson Cliente148,nelson148@exemplo.com,Boa Vista,Regular,2026-04-04
+149,Karina Cliente149,karina149@exemplo.com,Boa Vista,VIP,2025-05-04
+150,Isabela Cliente150,isabela150@exemplo.com,Manaus,Regular,2025-11-01
+151,Hugo Cliente151,hugo151@exemplo.com,Sao Paulo,VIP,2025-01-05
+152,Yago Cliente152,yago152@exemplo.com,Belem,Regular,2024-12-22
+153,Otavia Cliente153,otavia153@exemplo.com,Rio de Janeiro,Regular,2025-01-17
+154,Wesley Cliente154,wesley154@exemplo.com,Sao Paulo,Regular,2025-08-23
+155,Diego Cliente155,diego155@exemplo.com,Belo Horizonte,VIP,2024-10-23
+156,Vitor Cliente156,vitor156@exemplo.com,Salvador,Regular,2025-05-25
+157,Lucas Cliente157,lucas157@exemplo.com,Sao Paulo,Premium,2025-06-19
+158,Ximena Cliente158,ximena158@exemplo.com,Manaus,Premium,2025-01-07
+159,Wesley Cliente159,wesley159@exemplo.com,Boa Vista,Premium,2024-12-18
+160,Ursula Cliente160,ursula160@exemplo.com,Fortaleza,Regular,2024-05-28
+161,Zelia Cliente161,zelia161@exemplo.com,Belo Horizonte,VIP,2025-03-26
+162,Karina Cliente162,karina162@exemplo.com,Macapa,Premium,2025-12-20
+163,Ursula Cliente163,ursula163@exemplo.com,Belem,Regular,2025-10-31
+164,Karina Cliente164,karina164@exemplo.com,Macapa,Regular,2024-05-15
+165,Otavia Cliente165,otavia165@exemplo.com,Salvador,Regular,2024-10-26
+166,Lucas Cliente166,lucas166@exemplo.com,Belem,Regular,2026-01-22
+167,Rafael Cliente167,rafael167@exemplo.com,Macapa,VIP,2026-02-24
+168,Karina Cliente168,karina168@exemplo.com,Santarem,VIP,2026-01-03
+169,Thiago Cliente169,thiago169@exemplo.com,Manaus,Regular,2026-05-08
+170,Sonia Cliente170,sonia170@exemplo.com,Rio de Janeiro,Regular,2024-09-04
+171,Sonia Cliente171,sonia171@exemplo.com,Salvador,Premium,2026-07-05
+172,Isabela Cliente172,isabela172@exemplo.com,Rio de Janeiro,Premium,2025-01-16
+173,Ximena Cliente173,ximena173@exemplo.com,Salvador,VIP,2025-04-07
+174,Vitor Cliente174,vitor174@exemplo.com,Sao Paulo,Regular,2025-09-11
+175,Thiago Cliente175,thiago175@exemplo.com,Belo Horizonte,Regular,2025-09-02
+176,Isabela Cliente176,isabela176@exemplo.com,Macapa,Regular,2026-03-19
+177,Ana Cliente177,ana177@exemplo.com,Belo Horizonte,VIP,2025-11-16
+178,Yago Cliente178,yago178@exemplo.com,Belo Horizonte,Premium,2025-10-26
+179,Queila Cliente179,queila179@exemplo.com,Rio de Janeiro,Regular,2024-12-15
+180,Bruno Cliente180,bruno180@exemplo.com,Rio de Janeiro,VIP,2024-07-20
+181,Ximena Cliente181,ximena181@exemplo.com,Salvador,Regular,2024-06-09
+182,Joao Cliente182,joao182@exemplo.com,Belo Horizonte,Regular,2025-02-27
+183,Queila Cliente183,queila183@exemplo.com,Fortaleza,Regular,2025-09-11
+184,Vitor Cliente184,vitor184@exemplo.com,Sao Paulo,Regular,2026-05-15
+185,Rafael Cliente185,rafael185@exemplo.com,Manaus,Regular,2025-02-08
+186,Queila Cliente186,queila186@exemplo.com,Rio de Janeiro,Regular,2024-11-17
+187,Gabriela Cliente187,gabriela187@exemplo.com,Macapa,Regular,2025-12-31
+188,Nelson Cliente188,nelson188@exemplo.com,Salvador,VIP,2026-03-26
+189,Queila Cliente189,queila189@exemplo.com,Santarem,Regular,2025-10-29
+190,Yago Cliente190,yago190@exemplo.com,Belo Horizonte,Premium,2024-09-07
+191,Karina Cliente191,karina191@exemplo.com,Sao Paulo,VIP,2025-06-27
+192,Rafael Cliente192,rafael192@exemplo.com,Fortaleza,Regular,2026-01-21
+193,Elaine Cliente193,elaine193@exemplo.com,Fortaleza,Regular,2026-02-27
+194,Ximena Cliente194,ximena194@exemplo.com,Manaus,Premium,2024-04-19
+195,Zelia Cliente195,zelia195@exemplo.com,Fortaleza,Premium,2024-09-19
+196,Bruno Cliente196,bruno196@exemplo.com,Boa Vista,Regular,2024-04-15
+197,Fabio Cliente197,fabio197@exemplo.com,Manaus,Regular,2025-01-26
+198,Wesley Cliente198,wesley198@exemplo.com,Sao Paulo,Premium,2026-02-11
+199,Fabio Cliente199,fabio199@exemplo.com,Macapa,Regular,2024-09-05
+200,Elaine Cliente200,elaine200@exemplo.com,Rio de Janeiro,Regular,2025-03-19
+201,Rafael Cliente201,rafael201@exemplo.com,Macapa,Regular,2025-02-22
+202,Lucas Cliente202,lucas202@exemplo.com,Salvador,Premium,2024-09-05
+203,Ximena Cliente203,ximena203@exemplo.com,Rio de Janeiro,Premium,2025-09-04
+204,Elaine Cliente204,elaine204@exemplo.com,Salvador,Premium,2026-07-26
+205,Bruno Cliente205,bruno205@exemplo.com,Belem,Regular,2024-08-11
+206,Wesley Cliente206,wesley206@exemplo.com,Boa Vista,Regular,2026-07-05
+207,Fabio Cliente207,fabio207@exemplo.com,Salvador,Premium,2024-04-18
+208,Carla Cliente208,carla208@exemplo.com,Rio de Janeiro,Regular,2026-01-10
+209,Fabio Cliente209,fabio209@exemplo.com,Santarem,Regular,2025-03-14
+210,Gabriela Cliente210,gabriela210@exemplo.com,Sao Paulo,Premium,2025-05-27
+211,Ximena Cliente211,ximena211@exemplo.com,Rio de Janeiro,Regular,2025-07-27
+212,Wesley Cliente212,wesley212@exemplo.com,Santarem,VIP,2024-10-27
+213,Ximena Cliente213,ximena213@exemplo.com,Belo Horizonte,VIP,2025-01-07
+214,Thiago Cliente214,thiago214@exemplo.com,Belo Horizonte,Premium,2025-12-29
+215,Ximena Cliente215,ximena215@exemplo.com,Santarem,Premium,2026-05-14
+216,Lucas Cliente216,lucas216@exemplo.com,Fortaleza,Regular,2026-04-07
+217,Fabio Cliente217,fabio217@exemplo.com,Santarem,Regular,2026-01-21
+218,Nelson Cliente218,nelson218@exemplo.com,Macapa,Regular,2026-03-07
+219,Ursula Cliente219,ursula219@exemplo.com,Boa Vista,Regular,2025-07-25
+220,Mariana Cliente220,mariana220@exemplo.com,Macapa,Regular,2025-04-18
+221,Isabela Cliente221,isabela221@exemplo.com,Sao Paulo,Regular,2026-03-14
+222,Diego Cliente222,diego222@exemplo.com,Manaus,Regular,2025-07-31
+223,Otavia Cliente223,otavia223@exemplo.com,Rio de Janeiro,Regular,2024-12-03
+224,Bruno Cliente224,bruno224@exemplo.com,Salvador,Regular,2025-11-15
+225,Vitor Cliente225,vitor225@exemplo.com,Belem,Regular,2025-08-13
+226,Rafael Cliente226,rafael226@exemplo.com,Salvador,VIP,2026-04-24
+227,Isabela Cliente227,isabela227@exemplo.com,Boa Vista,Premium,2024-12-06
+228,Bruno Cliente228,bruno228@exemplo.com,Belem,Regular,2025-04-26
+229,Sonia Cliente229,sonia229@exemplo.com,Belem,Regular,2024-10-11
+230,Zelia Cliente230,zelia230@exemplo.com,Fortaleza,VIP,2024-11-12
+231,Paulo Cliente231,paulo231@exemplo.com,Salvador,Premium,2025-09-10
+232,Elaine Cliente232,elaine232@exemplo.com,Macapa,Premium,2026-04-30
+233,Fabio Cliente233,fabio233@exemplo.com,Salvador,VIP,2026-07-15
+234,Bruno Cliente234,bruno234@exemplo.com,Belem,Regular,2025-02-15
+235,Diego Cliente235,diego235@exemplo.com,Sao Paulo,Regular,2025-09-22
+236,Paulo Cliente236,paulo236@exemplo.com,Santarem,Regular,2025-04-10
+237,Wesley Cliente237,wesley237@exemplo.com,Santarem,Regular,2025-02-22
+238,Karina Cliente238,karina238@exemplo.com,Rio de Janeiro,Premium,2025-11-20
+239,Thiago Cliente239,thiago239@exemplo.com,Manaus,Regular,2024-06-06
+240,Diego Cliente240,diego240@exemplo.com,Fortaleza,Regular,2025-07-08
+241,Paulo Cliente241,paulo241@exemplo.com,Salvador,Premium,2025-12-22
+242,Mariana Cliente242,mariana242@exemplo.com,Macapa,Regular,2024-05-21
+243,Elaine Cliente243,elaine243@exemplo.com,Boa Vista,Regular,2025-02-15
+244,Karina Cliente244,karina244@exemplo.com,Boa Vista,Regular,2024-07-11
+245,Sonia Cliente245,sonia245@exemplo.com,Macapa,Regular,2025-02-16
+246,Fabio Cliente246,fabio246@exemplo.com,Salvador,Premium,2025-07-21
+247,Zelia Cliente247,zelia247@exemplo.com,Santarem,Regular,2025-01-12
+248,Fabio Cliente248,fabio248@exemplo.com,Belo Horizonte,Regular,2026-04-11
+249,Zelia Cliente249,zelia249@exemplo.com,Belem,VIP,2025-06-03
+250,Mariana Cliente250,mariana250@exemplo.com,Macapa,Regular,2026-06-11
+251,Isabela Cliente251,isabela251@exemplo.com,Manaus,Regular,2025-07-15
+252,Carla Cliente252,carla252@exemplo.com,Boa Vista,Premium,2026-06-26
+253,Gabriela Cliente253,gabriela253@exemplo.com,Salvador,Premium,2025-05-01
+254,Rafael Cliente254,rafael254@exemplo.com,Macapa,Regular,2024-08-22
+255,Otavia Cliente255,otavia255@exemplo.com,Salvador,Regular,2026-06-28
+256,Gabriela Cliente256,gabriela256@exemplo.com,Belo Horizonte,Premium,2026-05-01
+257,Fabio Cliente257,fabio257@exemplo.com,Belem,Regular,2026-07-26
+258,Joao Cliente258,joao258@exemplo.com,Fortaleza,Regular,2025-04-07
+259,Isabela Cliente259,isabela259@exemplo.com,Belem,VIP,2024-07-18
+260,Rafael Cliente260,rafael260@exemplo.com,Manaus,Regular,2025-02-19
+261,Sonia Cliente261,sonia261@exemplo.com,Salvador,Regular,2024-04-15
+262,Bruno Cliente262,bruno262@exemplo.com,Salvador,Regular,2025-01-30
+263,Mariana Cliente263,mariana263@exemplo.com,Belo Horizonte,Premium,2026-07-01
+264,Ana Cliente264,ana264@exemplo.com,Rio de Janeiro,Regular,2026-05-03
+265,Otavia Cliente265,otavia265@exemplo.com,Fortaleza,Premium,2025-12-03
+266,Fabio Cliente266,fabio266@exemplo.com,Salvador,Premium,2024-06-19
+267,Karina Cliente267,karina267@exemplo.com,Rio de Janeiro,Regular,2024-10-10
+268,Ursula Cliente268,ursula268@exemplo.com,Manaus,Regular,2026-07-14
+269,Lucas Cliente269,lucas269@exemplo.com,Belem,Regular,2026-03-22
+270,Sonia Cliente270,sonia270@exemplo.com,Salvador,Regular,2024-04-17
+271,Paulo Cliente271,paulo271@exemplo.com,Manaus,Regular,2025-09-06
+272,Fabio Cliente272,fabio272@exemplo.com,Belo Horizonte,Regular,2026-03-13
+273,Ana Cliente273,ana273@exemplo.com,Rio de Janeiro,Premium,2024-08-18
+274,Paulo Cliente274,paulo274@exemplo.com,Rio de Janeiro,Regular,2025-08-21
+275,Queila Cliente275,queila275@exemplo.com,Sao Paulo,Premium,2024-09-03
+276,Sonia Cliente276,sonia276@exemplo.com,Macapa,Regular,2025-12-02
+277,Diego Cliente277,diego277@exemplo.com,Rio de Janeiro,VIP,2025-09-25
+278,Thiago Cliente278,thiago278@exemplo.com,Fortaleza,Regular,2024-12-30
+279,Fabio Cliente279,fabio279@exemplo.com,Boa Vista,Regular,2026-07-23
+280,Ana Cliente280,ana280@exemplo.com,Sao Paulo,VIP,2026-02-04
+281,Wesley Cliente281,wesley281@exemplo.com,Belo Horizonte,Regular,2025-11-27
+282,Vitor Cliente282,vitor282@exemplo.com,Belo Horizonte,Regular,2026-02-21
+283,Thiago Cliente283,thiago283@exemplo.com,Salvador,VIP,2025-03-31
+284,Diego Cliente284,diego284@exemplo.com,Belem,Premium,2024-11-13
+285,Queila Cliente285,queila285@exemplo.com,Boa Vista,Premium,2025-11-17
+286,Ana Cliente286,ana286@exemplo.com,Belo Horizonte,Regular,2026-03-01
+287,Mariana Cliente287,mariana287@exemplo.com,Macapa,Regular,2026-03-31
+288,Diego Cliente288,diego288@exemplo.com,Santarem,VIP,2025-05-05
+289,Zelia Cliente289,zelia289@exemplo.com,Belem,VIP,2025-10-26
+290,Otavia Cliente290,otavia290@exemplo.com,Belo Horizonte,Regular,2025-10-02
+291,Isabela Cliente291,isabela291@exemplo.com,Belo Horizonte,Regular,2025-06-08
+292,Paulo Cliente292,paulo292@exemplo.com,Boa Vista,VIP,2024-04-17
+293,Fabio Cliente293,fabio293@exemplo.com,Belem,Regular,2026-07-02
+294,Gabriela Cliente294,gabriela294@exemplo.com,Santarem,VIP,2025-10-05
+295,Wesley Cliente295,wesley295@exemplo.com,Rio de Janeiro,Regular,2024-08-24
+296,Vitor Cliente296,vitor296@exemplo.com,Sao Paulo,Premium,2026-04-21
+297,Hugo Cliente297,hugo297@exemplo.com,Rio de Janeiro,Premium,2025-08-24
+298,Ursula Cliente298,ursula298@exemplo.com,Salvador,Regular,2024-11-09
+299,Rafael Cliente299,rafael299@exemplo.com,Boa Vista,VIP,2025-01-28
+300,Mariana Cliente300,mariana300@exemplo.com,Boa Vista,Regular,2025-04-26
+301,Hugo Cliente301,hugo301@exemplo.com,Manaus,Regular,2026-06-25
+302,Ximena Cliente302,ximena302@exemplo.com,Fortaleza,VIP,2025-09-29
+303,Fabio Cliente303,fabio303@exemplo.com,Rio de Janeiro,Regular,2026-03-27
+304,Otavia Cliente304,otavia304@exemplo.com,Rio de Janeiro,Regular,2024-09-04
+305,Bruno Cliente305,bruno305@exemplo.com,Fortaleza,Regular,2026-06-26
+306,Zelia Cliente306,zelia306@exemplo.com,Fortaleza,Regular,2025-01-04
+307,Joao Cliente307,joao307@exemplo.com,Rio de Janeiro,Regular,2024-08-25
+308,Ursula Cliente308,ursula308@exemplo.com,Salvador,VIP,2025-02-25
+309,Joao Cliente309,joao309@exemplo.com,Fortaleza,Regular,2025-08-08
+310,Yago Cliente310,yago310@exemplo.com,Rio de Janeiro,Regular,2026-07-20
+311,Nelson Cliente311,nelson311@exemplo.com,Salvador,Regular,2024-11-03
+312,Lucas Cliente312,lucas312@exemplo.com,Santarem,Regular,2025-07-12
+313,Lucas Cliente313,lucas313@exemplo.com,Macapa,Premium,2025-12-25
+314,Fabio Cliente314,fabio314@exemplo.com,Belo Horizonte,Regular,2025-04-05
+315,Fabio Cliente315,fabio315@exemplo.com,Rio de Janeiro,Regular,2025-07-16
+316,Ana Cliente316,ana316@exemplo.com,Salvador,Premium,2026-04-21
+317,Diego Cliente317,diego317@exemplo.com,Santarem,Regular,2025-04-21
+318,Thiago Cliente318,thiago318@exemplo.com,Sao Paulo,Regular,2024-10-30
+319,Diego Cliente319,diego319@exemplo.com,Rio de Janeiro,Regular,2025-09-18
+320,Ana Cliente320,ana320@exemplo.com,Belem,VIP,2024-06-13
+321,Karina Cliente321,karina321@exemplo.com,Manaus,Regular,2025-06-05
+322,Diego Cliente322,diego322@exemplo.com,Belem,VIP,2026-01-19
+323,Zelia Cliente323,zelia323@exemplo.com,Salvador,VIP,2025-08-18
+324,Thiago Cliente324,thiago324@exemplo.com,Manaus,Premium,2025-08-13
+325,Hugo Cliente325,hugo325@exemplo.com,Manaus,Regular,2026-04-23
+326,Rafael Cliente326,rafael326@exemplo.com,Rio de Janeiro,Regular,2026-03-21
+327,Carla Cliente327,carla327@exemplo.com,Macapa,Regular,2025-05-26
+328,Carla Cliente328,carla328@exemplo.com,Belo Horizonte,Regular,2025-04-30
+329,Paulo Cliente329,paulo329@exemplo.com,Sao Paulo,Regular,2026-06-15
+330,Nelson Cliente330,nelson330@exemplo.com,Manaus,Regular,2026-05-24
+331,Isabela Cliente331,isabela331@exemplo.com,Salvador,Regular,2025-05-25
+332,Diego Cliente332,diego332@exemplo.com,Sao Paulo,VIP,2026-07-22
+333,Elaine Cliente333,elaine333@exemplo.com,Fortaleza,Regular,2025-09-22
+334,Isabela Cliente334,isabela334@exemplo.com,Rio de Janeiro,Regular,2024-08-21
+335,Hugo Cliente335,hugo335@exemplo.com,Sao Paulo,VIP,2026-05-17
+336,Nelson Cliente336,nelson336@exemplo.com,Belem,Regular,2024-11-08
+337,Isabela Cliente337,isabela337@exemplo.com,Sao Paulo,Regular,2024-11-11
+338,Sonia Cliente338,sonia338@exemplo.com,Boa Vista,Regular,2024-11-21
+339,Queila Cliente339,queila339@exemplo.com,Manaus,Regular,2025-11-16
+340,Bruno Cliente340,bruno340@exemplo.com,Salvador,Regular,2025-02-09
+341,Otavia Cliente341,otavia341@exemplo.com,Boa Vista,Regular,2025-11-09
+342,Gabriela Cliente342,gabriela342@exemplo.com,Fortaleza,Regular,2025-08-01
+343,Queila Cliente343,queila343@exemplo.com,Boa Vista,VIP,2025-09-18
+344,Diego Cliente344,diego344@exemplo.com,Fortaleza,Regular,2026-01-12
+345,Thiago Cliente345,thiago345@exemplo.com,Fortaleza,Regular,2025-09-11
+346,Ximena Cliente346,ximena346@exemplo.com,Belem,Regular,2025-06-13
+347,Ursula Cliente347,ursula347@exemplo.com,Rio de Janeiro,Regular,2024-11-17
+348,Mariana Cliente348,mariana348@exemplo.com,Belem,VIP,2025-05-19
+349,Yago Cliente349,yago349@exemplo.com,Belo Horizonte,Regular,2024-12-27
+350,Mariana Cliente350,mariana350@exemplo.com,Sao Paulo,Premium,2025-08-03
+351,Mariana Cliente351,mariana351@exemplo.com,Sao Paulo,Regular,2024-05-23
+352,Paulo Cliente352,paulo352@exemplo.com,Macapa,Regular,2025-04-12
+353,Bruno Cliente353,bruno353@exemplo.com,Fortaleza,Premium,2024-08-06
+354,Joao Cliente354,joao354@exemplo.com,Salvador,VIP,2024-05-12
+355,Bruno Cliente355,bruno355@exemplo.com,Belem,Regular,2025-05-17
+356,Isabela Cliente356,isabela356@exemplo.com,Rio de Janeiro,Regular,2024-08-06
+357,Isabela Cliente357,isabela357@exemplo.com,Macapa,Regular,2026-06-04
+358,Carla Cliente358,carla358@exemplo.com,Santarem,Premium,2024-08-07
+359,Lucas Cliente359,lucas359@exemplo.com,Fortaleza,Regular,2026-04-19
+360,Vitor Cliente360,vitor360@exemplo.com,Fortaleza,Regular,2024-10-23
+361,Thiago Cliente361,thiago361@exemplo.com,Macapa,Regular,2026-04-14
+362,Nelson Cliente362,nelson362@exemplo.com,Santarem,Premium,2026-05-26
+363,Diego Cliente363,diego363@exemplo.com,Belem,VIP,2024-07-11
+364,Ximena Cliente364,ximena364@exemplo.com,Rio de Janeiro,Premium,2025-05-08
+365,Rafael Cliente365,rafael365@exemplo.com,Macapa,Regular,2025-10-13
+366,Nelson Cliente366,nelson366@exemplo.com,Sao Paulo,Regular,2024-05-12
+367,Otavia Cliente367,otavia367@exemplo.com,Santarem,VIP,2025-06-04
+368,Joao Cliente368,joao368@exemplo.com,Manaus,Regular,2025-01-30
+369,Fabio Cliente369,fabio369@exemplo.com,Fortaleza,Regular,2026-06-14
+370,Carla Cliente370,carla370@exemplo.com,Belo Horizonte,VIP,2025-06-06
+371,Paulo Cliente371,paulo371@exemplo.com,Belo Horizonte,Regular,2026-03-05
+372,Zelia Cliente372,zelia372@exemplo.com,Macapa,Regular,2024-05-25
+373,Diego Cliente373,diego373@exemplo.com,Manaus,Regular,2025-10-30
+374,Ximena Cliente374,ximena374@exemplo.com,Belo Horizonte,Regular,2026-03-01
+375,Gabriela Cliente375,gabriela375@exemplo.com,Sao Paulo,Premium,2024-05-04
+376,Wesley Cliente376,wesley376@exemplo.com,Boa Vista,Premium,2026-04-19
+377,Gabriela Cliente377,gabriela377@exemplo.com,Belo Horizonte,Regular,2025-07-30
+378,Mariana Cliente378,mariana378@exemplo.com,Belem,VIP,2026-07-23
+379,Lucas Cliente379,lucas379@exemplo.com,Fortaleza,Regular,2025-10-23
+380,Rafael Cliente380,rafael380@exemplo.com,Santarem,Premium,2025-11-13
+381,Carla Cliente381,carla381@exemplo.com,Boa Vista,Regular,2026-04-11
+382,Rafael Cliente382,rafael382@exemplo.com,Belem,Regular,2025-04-14
+383,Rafael Cliente383,rafael383@exemplo.com,Sao Paulo,Regular,2026-03-15
+384,Fabio Cliente384,fabio384@exemplo.com,Manaus,Premium,2025-11-17
+385,Vitor Cliente385,vitor385@exemplo.com,Belem,Regular,2024-12-08
+386,Ursula Cliente386,ursula386@exemplo.com,Belo Horizonte,Regular,2026-01-22
+387,Yago Cliente387,yago387@exemplo.com,Manaus,VIP,2025-04-04
+388,Carla Cliente388,carla388@exemplo.com,Fortaleza,Premium,2025-10-13
+389,Zelia Cliente389,zelia389@exemplo.com,Salvador,Premium,2025-01-11
+390,Lucas Cliente390,lucas390@exemplo.com,Santarem,Regular,2025-04-04
+391,Ursula Cliente391,ursula391@exemplo.com,Macapa,VIP,2026-02-28
+392,Isabela Cliente392,isabela392@exemplo.com,Belo Horizonte,Regular,2024-05-16
+393,Wesley Cliente393,wesley393@exemplo.com,Belem,Regular,2026-03-29
+394,Isabela Cliente394,isabela394@exemplo.com,Rio de Janeiro,Premium,2025-09-13
+395,Joao Cliente395,joao395@exemplo.com,Boa Vista,Premium,2024-08-14
+396,Bruno Cliente396,bruno396@exemplo.com,Belem,Regular,2025-05-14
+397,Carla Cliente397,carla397@exemplo.com,Santarem,Regular,2025-01-26
+398,Ana Cliente398,ana398@exemplo.com,Macapa,VIP,2026-01-08
+399,Ana Cliente399,ana399@exemplo.com,Sao Paulo,Premium,2025-03-10
+400,Queila Cliente400,queila400@exemplo.com,Rio de Janeiro,Regular,2025-01-26
+401,Ximena Cliente401,ximena401@exemplo.com,Fortaleza,Regular,2025-08-01
+402,Vitor Cliente402,vitor402@exemplo.com,Fortaleza,Regular,2024-08-31
+403,Paulo Cliente403,paulo403@exemplo.com,Rio de Janeiro,Premium,2024-10-05
+404,Karina Cliente404,karina404@exemplo.com,Sao Paulo,Regular,2025-11-15
+405,Rafael Cliente405,rafael405@exemplo.com,Salvador,Regular,2025-06-16
+406,Rafael Cliente406,rafael406@exemplo.com,Belem,Regular,2024-06-17
+407,Zelia Cliente407,zelia407@exemplo.com,Macapa,Regular,2024-09-03
+408,Bruno Cliente408,bruno408@exemplo.com,Fortaleza,Premium,2026-03-06
+409,Vitor Cliente409,vitor409@exemplo.com,Belo Horizonte,Regular,2024-08-02
+410,Ursula Cliente410,ursula410@exemplo.com,Sao Paulo,VIP,2025-11-05
+411,Diego Cliente411,diego411@exemplo.com,Santarem,Regular,2024-10-11
+412,Gabriela Cliente412,gabriela412@exemplo.com,Boa Vista,VIP,2025-04-18
+413,Vitor Cliente413,vitor413@exemplo.com,Macapa,Premium,2024-07-06
+414,Queila Cliente414,queila414@exemplo.com,Belo Horizonte,Regular,2025-06-25
+415,Zelia Cliente415,zelia415@exemplo.com,Manaus,VIP,2024-08-14
+416,Thiago Cliente416,thiago416@exemplo.com,Boa Vista,Premium,2024-06-25
+417,Nelson Cliente417,nelson417@exemplo.com,Boa Vista,Regular,2025-05-13
+418,Rafael Cliente418,rafael418@exemplo.com,Rio de Janeiro,Regular,2025-06-22
+419,Mariana Cliente419,mariana419@exemplo.com,Sao Paulo,VIP,2024-11-18
+420,Rafael Cliente420,rafael420@exemplo.com,Fortaleza,Regular,2024-08-11
