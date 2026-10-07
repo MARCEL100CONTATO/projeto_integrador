@@ -64,11 +64,9 @@ preferida). Documentação de cada feature no notebook, seção 4.
 Três modelos comparados com validação cruzada (5-fold, F1) e avaliados em
 um conjunto de teste separado (20%, estratificado):
 
-| Modelo | Accuracy | F1 | ROC-AUC |
-|---|---|---|---|
-| **Random Forest** (selecionado) | 0,76 | **0,79** | 0,82 |
-| Gradient Boosting | 0,72 | 0,75 | 0,84 |
-| Logistic Regression | 0,66 | 0,70 | 0,66 |
+**Random Forest** (selecionado): accuracy 0,76, F1 **0,79**, ROC-AUC 0,82.
+**Gradient Boosting**: accuracy 0,72, F1 0,75, ROC-AUC 0,84.
+**Logistic Regression**: accuracy 0,66, F1 0,70, ROC-AUC 0,66.
 
 `StandardScaler` ajustado **somente no treino** (sem vazamento). Modelo
 final salvo em `models/modelo_churn.pkl` (dict com modelo + scaler +
